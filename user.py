@@ -86,6 +86,13 @@ COLUMNS = (
     "web",
 )
 
+#install git in your machine
+#git --version
+#create respository in github
+#git config --global user.name"Alisha Sharma"
+#git config--global user.email"sharmaalisha2024@gmail.com"
+#git add.
+#git commit -m "your commit message"
 
 INPUT_STRING = """
 Enter the option:
